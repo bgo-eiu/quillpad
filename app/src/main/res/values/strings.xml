@@ -1,45 +1,45 @@
 <resources>
     <!-- Navigation drawer -->
-    <string name="nav_notes">Notes</string>
+    <string name="nav_notes">نوٹ</string>
     <string name="nav_archive">Archive</string>
-    <string name="nav_deleted">Deleted</string>
-    <string name="nav_settings">Settings</string>
-    <string name="nav_about">About</string>
-    <string name="nav_tags">Tags</string>
-    <string name="nav_all_notes">All Notes</string>
-    <string name="nav_notebooks">Notebooks</string>
-    <string name="nav_your_notebooks">Your Notebooks</string>
+    <string name="nav_deleted">مٹاۓ</string>
+    <string name="nav_settings">سیٹنگاں</string>
+    <string name="nav_about">بارے</string>
+    <string name="nav_tags">ٹیگ</string>
+    <string name="nav_all_notes">سارے نوٹ</string>
+    <string name="nav_notebooks">نوٹ گٹھاں</string>
+    <string name="nav_your_notebooks">تہاڈیاں گٹھاں</string>
 
     <!-- Preferences -->
-    <string name="preferences_header_general">General</string>
-    <string name="preferences_theme_mode">Theme mode</string>
-    <string name="preferences_theme_mode_dark">Dark</string>
-    <string name="preferences_theme_mode_light">Light</string>
-    <string name="preferences_theme_mode_system">Follow system</string>
+    <string name="preferences_header_general">عام</string>
+    <string name="preferences_theme_mode">سٹائل</string>
+    <string name="preferences_theme_mode_dark">ہنیر</string>
+    <string name="preferences_theme_mode_light">روشنی</string>
+    <string name="preferences_theme_mode_system">سیسٹم دا مول</string>
 
-    <string name="preferences_dark_theme_mode">Dark theme mode</string>
-    <string name="preferences_theme_dark_mode_standard">Standard</string>
-    <string name="preferences_theme_dark_mode_black">Black</string>
+    <string name="preferences_dark_theme_mode">ہنیر چوݨاں</string>
+    <string name="preferences_theme_dark_mode_standard">میعاری</string>
+    <string name="preferences_theme_dark_mode_black">کالؕا</string>
 
-    <string name="preferences_header_view">View</string>
-    <string name="preferences_layout_mode">Layout mode</string>
-    <string name="preferences_layout_mode_grid">Grid</string>
-    <string name="preferences_layout_mode_list">List</string>
+    <string name="preferences_header_view">ویکھݨا</string>
+    <string name="preferences_layout_mode">وجہ</string>
+    <string name="preferences_layout_mode_grid">گرڈ</string>
+    <string name="preferences_layout_mode_list">لسٹ</string>
 
-    <string name="preferences_color_scheme">Color scheme</string>
-    <string name="preferences_color_scheme_blue">Blue</string>
-    <string name="preferences_color_scheme_pink">Pink</string>
-    <string name="preferences_color_scheme_green">Green</string>
-    <string name="preferences_color_scheme_orange">Orange</string>
-    <string name="preferences_color_scheme_purple">Purple</string>
-    <string name="preferences_color_scheme_yellow">Yellow</string>
-    <string name="preferences_color_scheme_red">Red</string>
+    <string name="preferences_color_scheme">رنگ</string>
+    <string name="preferences_color_scheme_blue">نیلا</string>
+    <string name="preferences_color_scheme_pink">گلابی</string>
+    <string name="preferences_color_scheme_green">ہیرا</string>
+    <string name="preferences_color_scheme_orange">سنترا</string>
+    <string name="preferences_color_scheme_purple">جمنی</string>
+    <string name="preferences_color_scheme_yellow">پیلا</string>
+    <string name="preferences_color_scheme_red">لال</string>
 
-    <string name="preferences_sort_method">Sort by</string>
-    <string name="preferences_sort_method_title_asc">Title (ascending)</string>
-    <string name="preferences_sort_method_title_desc">Title (descending)</string>
-    <string name="preferences_sort_method_created_asc">Date created (ascending)</string>
-    <string name="preferences_sort_method_created_desc">Date created (descending)</string>
+    <string name="preferences_sort_method">لڑیبدھ</string>
+    <string name="preferences_sort_method_title_asc">سرلیکھ، چڑھدے</string>
+    <string name="preferences_sort_method_title_desc">سرلیکھ، اُتردے</string>
+    <string name="preferences_sort_method_created_asc">بݨاوݨ دی تعیخ، چڑھدے</string>
+    <string name="preferences_sort_method_created_desc">بݨاوڻ دی تریخ، اُتردے</string>
     <string name="preferences_sort_method_modified_asc">Date modified (ascending)</string>
     <string name="preferences_sort_method_modified_desc">Date modified (descending)</string>
 
